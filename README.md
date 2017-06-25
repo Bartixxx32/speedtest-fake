@@ -1,5 +1,5 @@
 # speedtest-fake
-Generate real fake OOKLA Speedtest results with PHP very easily. 
+Generate real fake OOKLA Speedtest results with PHP very easily.   
 Script by Jaydon Taylor 2017
 
 ## Dependencies
